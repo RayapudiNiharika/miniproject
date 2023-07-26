@@ -1,0 +1,129 @@
+Critical SQL injection attempt detected for input: XYZ' OR '1'='1
+Critical SQL injection attempt detected for input: XYZ' OR '1'='1
+Critical SQL injection attempt detected for input: XYZ' OR '1'='1
+Critical SQL injection attempt detected for input: XYZ' OR '1'='1
+Critical SQL injection attempt detected for input: XYZ' OR '1'='1
+Critical SQL injection attempt detected for input: XYZ' OR '1'='1
+Critical SQL injection attempt detected for input: XYZ' OR '1'='1
+Critical SQL injection attempt detected for input: XYZ' OR '1'='1
+Critical SQL injection attempt detected for input: XYZ' OR '1'='1
+Critical SQL injection attempt detected for input: XYZ' OR '1'='1
+Medium severity SQL injection attempt detected for input: select
+Critical SQL injection attempt detected for input: XYZ' OR '1'='1
+Critical SQL injection attempt detected for input: XYZ' OR '1'='1
+Critical SQL injection attempt detected for input: XYZ' OR '1'='1
+Critical SQL injection attempt detected for input: XYZ' OR '1'='1
+XSS attack attempt detected for input: <script>alert(document.cookie)</script>
+Critical SQL injection attempt detected for input: <!DOCTYPE html>
+<html>
+<body>
+
+<h1>The script element</h1>
+
+<p id="demo"></p>
+
+<script>
+document.getElementById("demo").innerHTML = "Hello JavaScript!";
+</script> 
+
+</body>
+</html>
+
+Vulnerabilities detected in the uploaded file:
+- XSS Attack Detected
+- SQL Injection Detected
+
+Critical SQL injection attempt detected for input: <!DOCTYPE html>
+<html>
+<body>
+
+<h1>The script element</h1>
+
+<p id="demo"></p>
+
+<script>
+document.getElementById("demo").innerHTML = "Hello JavaScript!";
+</script> 
+
+</body>
+</html>
+
+Vulnerabilities detected in the uploaded file:
+- XSS Attack Detected
+- SQL Injection Detected
+
+No vulnerabilities detected in the uploaded file.
+Medium severity SQL injection attempt detected for input: update
+Medium severity SQL injection attempt detected for input: update
+Medium severity SQL injection attempt detected for input: update
+Critical SQL injection attempt detected for input: XYZ' OR '1'='1
+Critical SQL injection attempt detected for input: '1'='1
+Critical SQL injection attempt detected for input: '1'='1
+Critical SQL injection attempt detected for input: '1'='1
+Critical SQL injection attempt detected for input: '1'='1
+No vulnerabilities detected in the uploaded file.
+Critical SQL injection attempt detected for input: XYZ' OR '1'='1
+Critical SQL injection attempt detected for input: XYZ' OR '1'='1
+Critical SQL injection attempt detected for input: XYZ' OR '1'='1
+Critical SQL injection attempt detected for input: XYZ' OR '1'='1
+Critical SQL injection attempt detected for input: <!DOCTYPE html>
+<html>
+<body>
+
+<h1>The script element</h1>
+
+<p id="demo"></p>
+
+<script>
+document.getElementById("demo").innerHTML = "Hello JavaScript!";
+</script> 
+
+</body>
+</html>
+
+Vulnerabilities detected in the uploaded file:
+- XSS Attack Detected
+- SQL Injection Detected
+
+No vulnerabilities detected in the uploaded file.
+Safe input: AAA
+Safe input: AAA
+Safe input: niha
+Safe input: niha
+Critical SQL injection attempt detected for input: '1'='1
+Medium severity SQL injection attempt detected for input: union
+Medium severity SQL injection attempt detected for input: alter
+Medium severity SQL injection attempt detected for input: drop
+Safe input: 
+Critical SQL injection attempt detected for input: '1'=1
+Critical SQL injection attempt detected for input: '1'=1
+Critical SQL injection attempt detected for input: '1'=1
+Critical SQL injection attempt detected for input: '1'=1
+XSS attack attempt detected: XSS attack attempt detected
+XSS attack attempt detected: XSS attack attempt detected
+2023-07-24T23:32:33.489779300 - Medium severity SQL injection attempt detected for input: drop
+2023-07-24T23:36:40.208328 - Safe input: niha
+2023-07-26T16:08:59.422818500 - Critical SQL injection attempt detected for input: XYZ' OR '1'='1
+2023-07-26T16:11:18.302559700 - Safe input: sample text document
+
+2023-07-26T16:11:18.407377100 - No vulnerabilities detected in the uploaded file.
+2023-07-26T16:11:33.833081400 - Critical SQL injection attempt detected for input: <!DOCTYPE html>
+<html>
+<body>
+
+<h1>The script element</h1>
+
+<p id="demo"></p>
+
+<script>
+document.getElementById("demo").innerHTML = "Hello JavaScript!";
+</script> 
+
+</body>
+</html>
+
+2023-07-26T16:11:33.834553200 - Vulnerabilities detected in the uploaded file:
+- XSS Attack Detected
+- SQL Injection Detected
+
+2023-07-26T17:07:37.693327700 - Safe input: niha
